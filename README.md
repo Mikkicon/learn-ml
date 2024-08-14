@@ -1,4 +1,4 @@
-# ml interview questions
+# ML Interview Questions
 
 - Machine Learning
 - Model Building and Evaluation
