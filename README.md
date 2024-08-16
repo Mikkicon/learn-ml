@@ -10,8 +10,8 @@
 - Manufacturing
 - Python
 
-![alt text](image-1.png)
-![alt text](image.png)
+![alt text](theory-image.png)
+![alt text](mse-image.png)
 
 # [deep-ml](https://www.deep-ml.com/) solutions
 
